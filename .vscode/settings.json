@@ -1,0 +1,11 @@
+{
+	"files.readonlyInclude": {
+		"python/**/*": true
+	},
+	"files.watcherExclude": {
+		"python/**/*": true
+	},
+	"search.exclude": {
+		"python/**/*": true
+	}
+}
